@@ -11,7 +11,7 @@ LCM of 4 and 6 = 12
 
 ## 📂 Project Files
 
-lcm.py - Python script to calculate LCM
+22296059_cloud_lcm.py - Python script to calculate LCM
 
 ## ▶️ How to Run
 
